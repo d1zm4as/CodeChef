@@ -1,4 +1,4 @@
 # cook your dish here
-s = input()
+a = input()
 
-print(s[6])
+print(a[6])
